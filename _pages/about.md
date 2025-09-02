@@ -14,4 +14,6 @@ I am excited about finding ways to make language processing more natural. This e
 
 A second component of my research is to find ways  of enhancing user experience in human-AI interaction settings. These pursuits have led to innovative educational applications spanning STEM learning environments and medical education.
 
+Prior to coming to Princeton, I was an Assistant Professor in Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign. I was also an affiliate faculty member in the departments of Computer Science, Educational Psychology, the National Center for Supercomputing Applications and the Center for Social and Behavioral Science, where I was engaged in interdisciplinary research.
+
 
