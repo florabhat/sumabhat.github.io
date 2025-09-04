@@ -1,11 +1,4 @@
----
-permalink: /publications/
-title: #”Courses I have taught"
-author_profile: true
-redirect_from: 
-  - /publications/
-  - /publications.html
----
+
 
 ## Publications
 
