@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Courses I have taught"
+author_profile: true
+redirect_from: 
+  - /teaching/
+  - /teaching.html
+---
+
 ## Princeton University Courses
 COS 324 Introduction to Machine Learning and Junior Research Workshop (Fall 2022)
 
