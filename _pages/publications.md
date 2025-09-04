@@ -9,7 +9,7 @@ redirect_from:
 
 ## Publications
 
-For a longer list of my publications, visit my [Google Scholar page] (https://scholar.google.com/citations?user=F6x3R1oAAAAJ&hl=en)
+For a full list of my publications, visit my [Google Scholar page] (https://scholar.google.com/citations?user=F6x3R1oAAAAJ&hl=en)
 
 # 2025
 
