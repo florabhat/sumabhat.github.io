@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : #"Suma Bhat's Homepage"
+title                    : "                    "
 title_separator          : "-"
 name                     : &name "Suma Bhat  (this)"
 description              : &description "personal description"
