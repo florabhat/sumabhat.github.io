@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## Suma Bhat's Homepage
+## Suma Bhat's Homepage (about)
 My research interests span the areas of natural language processing, human-computer interaction, learning analytics and medical language processing. I am interested in answering the following two different but broadly related questions: "How do we enable machines to understand the social and cultural nuances of human language?" and "How can we use advances in AI to enhance user experience in different domains of human-AI interaction?"
 
 I am excited about finding ways to make language processing more natural. This excitement has led me to study computational methods to process idiosyncratic and creative linguistic phenomena that are inherent in natural language, exemplified by figurative expressions, including idioms and euphemisms. My research in this area permits us to simultaneously understand the computational challenges to processing and reasoning these processes on one hand and the intricacies and patterns of natural language use on the other. 
