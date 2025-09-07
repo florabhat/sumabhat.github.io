@@ -2,7 +2,7 @@
 title: "Publications"
 collection: publications
 type: "Workshop"
-permalink: /mypubs/
+permalink: /publications/
 ---
 
 ## Publications
