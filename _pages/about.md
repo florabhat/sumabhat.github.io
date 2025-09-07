@@ -29,17 +29,17 @@ Prior to coming to Princeton, I was an Assistant Professor in Electrical and Com
 
 - **Intermediate Fine-Tuning Improves Mathematical Reasoning in Smaller Models**
   
-N. Gangwar, S. Bhat, and N. Kani
-[Workshop on Mathematical Reasoning and AI at NeurIPS’24]
+  N. Gangwar, S. Bhat, and N. Kani
+  [Workshop on Mathematical Reasoning and AI at NeurIPS’24]
 
 - **Enhancing Language Models with Idiomatic Reasoning**
 
-J. Zhou, Z. Zeng, H. Gong, and S. Bhat
-[COLM 2024]
+  J. Zhou, Z. Zeng, H. Gong, and S. Bhat
+  [COLM 2024]
 
 - **CLASP: Cross-modal Alignment Using Pre-trained Unimodal Models**
 
-J. Zhou, Z. Zeng, H. Gong, and S. Bhat
-[Findings of ACL 2024]
+  J. Zhou, Z. Zeng, H. Gong, and S. Bhat
+  [Findings of ACL 2024]
 
 
