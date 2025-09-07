@@ -14,7 +14,7 @@ Prior to coming to Princeton, I was an Assistant Professor in Electrical and Com
 
 ## Publications
 
- For a full list of my publications, visit my [Google Scholar page] (https://scholar.google.com/citations?user=F6x3R1oAAAAJ&hl=en).
+ For a full list of my publications, visit my [Google Scholar page](https://scholar.google.com/citations?user=F6x3R1oAAAAJ&hl=en).
 
  A sample of my recent publications:
 
