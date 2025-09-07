@@ -11,4 +11,6 @@ My work bridges natural language processing and human–AI interaction. At its c
 
 Prior to coming to Princeton, I was an Assistant Professor in Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign. I was also an affiliate faculty member in the departments of Computer Science, Educational Psychology, the National Center for Supercomputing Applications and the Center for Social and Behavioral Science, where I was engaged in interdisciplinary research.
 
+My [Google Scholar page] (https://scholar.google.com/citations?user=F6x3R1oAAAAJ) 
+
 
