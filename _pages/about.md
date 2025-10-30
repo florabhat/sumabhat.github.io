@@ -20,6 +20,12 @@ Prior to coming to Princeton, I was an Assistant Professor in Electrical and Com
 
 # 2025
 
+- **Medical students’ perception of automated note feedback after simulated encounters**
+  
+  Co-authored with S. Bansal, M.J. Yadav, and others
+
+  [The Clinical Teacher]
+  
 - **An LLM-Based Framework for Simulating, Classifying, and Correcting Students’ Programming Knowledge with the SOLO Taxonomy**
   
   S. Zhang, P. S. Meshram, P. Ganapathy Prasad, M. Israel, and S. Bhat
