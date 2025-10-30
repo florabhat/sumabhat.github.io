@@ -25,8 +25,8 @@ author:
   avatar           : "Small SB_Photo.png"
   name             : "Suma  Bhat"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher enthusiastic about the intersection of AI and Natural Language"
-  location         : "Princeton, NJ, USA"
+  bio              : "Researcher in Computer Science"
+  location         : # "Princeton, NJ, USA"
   employer         : "Princeton University"
   uri              : # URL
   email            : "sumabhat@princeton.edu" 
