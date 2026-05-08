@@ -8,13 +8,52 @@ permalink: /publications/
 
 For a full list of my publications, visit my [Google Scholar page](https://scholar.google.com/citations?user=F6x3R1oAAAAJ&hl=en).
 
+# 2026
+
+- Multilingual Idioms in Sentences and Conversations Across High-, Medium-, and Low-Resource Languages
+  [Accepted to ACL 2026]
+
+  
+- Integrating Arithmetic Learning Improves Mathematical Reasoning in Smaller Models
+  N. Gangwar, S. Bhat, and N. Kani
+  [Accepted to LREC 2026]
+  
+- Integrating Arithmetic Learning Improves Mathematical Reasoning in Smaller Models
+  N. Gangwar, S. Bhat, and N. Kani
+  [LREC 2026]
+
+- Examining Students' Code Comprehension with LLMs in Block-and Text-Based Programming
+  S. Zhang, T. V. Earle-Randell, P. Ganapathy Prasad, Z. Liu, Y. Shi, S. Bhat, M. Israel, and A. F. Botelho
+  [SIGCSE 2026]
+
+- Investigating High School Students' Code Comprehension and Strategy Use Across Block-Based and Text-Based Programming
+  S. Zhang, P. Ganapathy Prasad, T. V. Earle-Randell, Y. Shi, S. Bhat, and M. Israel
+  [SIGCSE 2026]
+  
+
 # 2025
+
+-Learning From Online Instructional Videos Considering Video Presentation Modes, Technological Comfort, and Students Characteristics
+  M. Perry, R. F. L. Azevedo, G. Henricks, R. W. Crues, and S. Bhat
+  [International Journal of Human–Computer Interaction]
+
+- Learning From Online Instructional Videos Considering Video Presentation Modes, Technological Comfort, and Students Characteristics
+  M. Perry, R. F. L. Azevedo, G. Henricks, R. W. Crues, and S. Bhat
+  [International Journal of Human–Computer Interaction]
+
+- Medical Students' Perception of Automated Note Feedback After Simulated Encounters
+  S. K. Bansal, M. Yadav, J. Zhou, R. A. Ebert‐Allen, R. M. Klute, W. F. Bond, and S. Bhat
+  [The Clinical Teacher]
 
 - An LLM-Based Framework for Simulating, Classifying, and Correcting Students’ Programming Knowledge with the SOLO Taxonomy
   S. Zhang, P. S. Meshram, P. Ganapathy Prasad, M. Israel, and S. Bhat
   [SIGCSE 2025]
 
 # 2024
+
+- Long-Form Analogy Evaluation Challenge
+  B. Bhavya, C. Palaguachi, Y. Zhou, S. Bhat, and C. Zhai
+  [INLG 2024]
 
 - Intermediate Fine-Tuning Improves Mathematical Reasoning in Smaller Models
 N. Gangwar, S. Bhat, and N. Kani
