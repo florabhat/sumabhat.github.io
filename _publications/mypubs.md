@@ -10,13 +10,13 @@ For a full list of my publications, visit my [Google Scholar page](https://schol
 
 # 2026
 
-- Multilingual Idioms in Sentences and Conversations Across High-, Medium-, and Low-Resource Languages
+- Multilingual Idioms in Sentences and Conversations Across High-, Medium-, and Low-Resource Languages \
   [Accepted to ACL 2026]
 
   
-- Integrating Arithmetic Learning Improves Mathematical Reasoning in Smaller Models
+- Integrating Arithmetic Learning Improves Mathematical Reasoning in Smaller Models \
 
-  N. Gangwar, S. Bhat, and N. Kani
+  N. Gangwar, S. Bhat, and N. Kani \
   [Accepted to LREC 2026]
   
 
