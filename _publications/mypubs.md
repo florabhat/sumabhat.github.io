@@ -18,9 +18,6 @@ For a full list of my publications, visit my [Google Scholar page](https://schol
   N. Gangwar, S. Bhat, and N. Kani
   [Accepted to LREC 2026]
   
-- Integrating Arithmetic Learning Improves Mathematical Reasoning in Smaller Models
-  N. Gangwar, S. Bhat, and N. Kani
-  [LREC 2026]
 
 - Examining Students' Code Comprehension with LLMs in Block-and Text-Based Programming
   S. Zhang, T. V. Earle-Randell, P. Ganapathy Prasad, Z. Liu, Y. Shi, S. Bhat, M. Israel, and A. F. Botelho
