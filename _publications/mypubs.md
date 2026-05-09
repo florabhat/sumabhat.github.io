@@ -15,6 +15,7 @@ For a full list of my publications, visit my [Google Scholar page](https://schol
 
   
 - Integrating Arithmetic Learning Improves Mathematical Reasoning in Smaller Models
+
   N. Gangwar, S. Bhat, and N. Kani
   [Accepted to LREC 2026]
   
@@ -30,9 +31,6 @@ For a full list of my publications, visit my [Google Scholar page](https://schol
 
 # 2025
 
--Learning From Online Instructional Videos Considering Video Presentation Modes, Technological Comfort, and Students Characteristics
-  M. Perry, R. F. L. Azevedo, G. Henricks, R. W. Crues, and S. Bhat
-  [International Journal of Human–Computer Interaction]
 
 - Learning From Online Instructional Videos Considering Video Presentation Modes, Technological Comfort, and Students Characteristics
   M. Perry, R. F. L. Azevedo, G. Henricks, R. W. Crues, and S. Bhat
