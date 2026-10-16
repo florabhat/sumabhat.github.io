@@ -4,6 +4,16 @@
 
 For a full list of my publications, visit my [Google Scholar page] (https://scholar.google.com/citations?user=F6x3R1oAAAAJ&hl=en).
 
+# 2026
+
+- Investigating High School Students' Code Comprehension and Strategy Use Across Block-Based and Text-Based Programming
+  S. Zhang, P. Ganapathy Prasad, T. V. Earle-Randell, Y. Shi, S. Bhat, M. Israel
+  [SIGCSE 2026]
+
+- Examining Students' Code Comprehension with LLMs in Block-and Text-Based Programming
+  S. Zhang, T. V. Earle-Randell, P. Ganapathy Prasad, Z. Liu, Y. Shi, S. Bhat, M. Israel, A. F. Botelho
+  [SIGCSE 2026]
+
 # 2025
 
 - An LLM-Based Framework for Simulating, Classifying, and Correcting Students’ Programming Knowledge with the SOLO Taxonomy
