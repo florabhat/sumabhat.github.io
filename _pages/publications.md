@@ -16,6 +16,10 @@ For a full list of my publications, visit my [Google Scholar page] (https://scho
 
 # 2025
 
+- Medical Students' Perception of Automated Note Feedback After Simulated Encounters
+  SK Bansal, M Yadav, J Zhou, RA Ebert‐Allen, RM Klute, WF Bond, S Bhat
+  [The Clinical Teacher]
+
 - An LLM-Based Framework for Simulating, Classifying, and Correcting Students’ Programming Knowledge with the SOLO Taxonomy
   S. Zhang, P. S. Meshram, P. Ganapathy Prasad, M. Israel, and S. Bhat
   [SIGCSE 2025]
