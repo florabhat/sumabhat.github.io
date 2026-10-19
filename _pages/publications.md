@@ -5,6 +5,10 @@
 For a full list of my publications, visit my [Google Scholar page] (https://scholar.google.com/citations?user=F6x3R1oAAAAJ&hl=en).
 
 # 2026
+- Dialect ASR based on Multi-View Pseudo-Parallel Augmentation and Noise-Robust Contrastive Learning
+  J. Zhou, Z. Zeng, H. Gong, S. Bhat
+  [To be presented in NeurIPS 2026]
+  
 - Multilingual Idioms in Sentences and Conversations Across High-,
 Medium-, and Low-Resource Languages
   S. Almheiri, B. Elbouardi, S. Z. Pranida, I. Nikishina, A. Rao, P. Krishnamurthy, M. C. Airlangga, R. A. Genadi, N. P. G. Bao, A. H. Yari, H. O. Toyin, N. Mukhituly, Mena Attia, Besher Hassan, Ahmad Fathan Hidayatullah, Tatsuki Kuribayashi, Haonan Li, Suma Bhat, Fajri Koto
