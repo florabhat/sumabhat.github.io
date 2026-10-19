@@ -12,7 +12,7 @@ For a full list of my publications, visit my [Google Scholar page] (https://scho
 - Multilingual Idioms in Sentences and Conversations Across High-,
 Medium-, and Low-Resource Languages
   S. Almheiri, B. Elbouardi, S. Z. Pranida, I. Nikishina, A. Rao, P. Krishnamurthy, M. C. Airlangga, R. A. Genadi, N. P. G. Bao, A. H. Yari, H. O. Toyin, N. Mukhituly, Mena Attia, Besher Hassan, Ahmad Fathan Hidayatullah, Tatsuki Kuribayashi, Haonan Li, Suma Bhat, Fajri Koto
-  [ACL 2026] (Best Paper Award Nominee)
+  [ACL 2026] (*Best Paper Award Nominee*)
   
 - Investigating High School Students' Code Comprehension and Strategy Use Across Block-Based and Text-Based Programming
   S. Zhang, P. Ganapathy Prasad, T. V. Earle-Randell, Y. Shi, S. Bhat, M. Israel
